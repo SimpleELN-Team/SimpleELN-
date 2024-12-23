@@ -1,8 +1,10 @@
 # SimpleELN 用户指南
 
-Welcome to the **SimpleELN** user guide! 
+欢迎使用SimpleELN用户指南！
 
-欢迎访问 SimpleELN 文档！在这里，您将找到关于如何使用 SimpleELN 创建、共享和组织日常工作、文档和文件的详细信息。您可以在 http://simpleeln.com 上在线体验所有功能。
+SimpleELN是一款用户友好的电子实验室笔记本（ELN）系统，旨在帮助研究人员安全地存储、组织和分享他们的研究数据和笔记。本指南将为您提供详细的步骤教程，帮助您快速入门并高效地使用SimpleELN的各项功能。
+
+感谢您选择SimpleELN web服务器，给我们展示其功能和性能的机会。我们非常感谢您的关注，并希望SimpleELN能对您的研究和文档工作提供帮助。
 
 [SimpleELN 用户指南](https://simpleeln-documentation.readthedocs.io/en/latest/index.html).
 
