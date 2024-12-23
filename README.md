@@ -6,7 +6,7 @@ SimpleELN是一款用户友好的电子实验室笔记本（ELN）系统，旨�
 
 感谢您选择SimpleELN web服务器，给我们展示其功能和性能的机会。我们非常感谢您的关注，并希望SimpleELN能对您的研究和文档工作提供帮助。
 
-[SimpleELN 用户指南](https://simpleeln-documentation.readthedocs.io/en/latest/index.html).
+[SimpleELN 用户指南](https://simpleeln-doc-chinese.readthedocs.io/zh-cn/latest/).
 
 ## 版本
 
